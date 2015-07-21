@@ -1,0 +1,82 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   ConsoleApplication3.sdf
+#	new file:   ConsoleApplication3.sln
+#	new file:   ConsoleApplication3.v11.suo
+#	new file:   ConsoleApplication3/ConsoleApplication3.cpp
+#	new file:   ConsoleApplication3/ConsoleApplication3.vcxproj
+#	new file:   ConsoleApplication3/ConsoleApplication3.vcxproj.filters
+#	new file:   ConsoleApplication3/Debug/CL.read.1.tlog
+#	new file:   ConsoleApplication3/Debug/CL.write.1.tlog
+#	new file:   ConsoleApplication3/Debug/ConsoleApplication3.lastbuildstate
+#	new file:   ConsoleApplication3/Debug/ConsoleApplication3.log
+#	new file:   ConsoleApplication3/Debug/ConsoleApplication3.pch
+#	new file:   ConsoleApplication3/Debug/ConsoleApplication3.unsuccessfulbuild
+#	new file:   ConsoleApplication3/Debug/FileIoHelperClass.obj
+#	new file:   ConsoleApplication3/Debug/cl.command.1.tlog
+#	new file:   ConsoleApplication3/Debug/link-cvtres.read.1.tlog
+#	new file:   ConsoleApplication3/Debug/link-cvtres.write.1.tlog
+#	new file:   ConsoleApplication3/Debug/link-rc.read.1.tlog
+#	new file:   ConsoleApplication3/Debug/link-rc.write.1.tlog
+#	new file:   ConsoleApplication3/Debug/link.18140-cvtres.read.1.tlog
+#	new file:   ConsoleApplication3/Debug/link.18140-cvtres.write.1.tlog
+#	new file:   ConsoleApplication3/Debug/link.18140-rc.read.1.tlog
+#	new file:   ConsoleApplication3/Debug/link.18140-rc.write.1.tlog
+#	new file:   ConsoleApplication3/Debug/link.18140.read.1.tlog
+#	new file:   ConsoleApplication3/Debug/link.18140.write.1.tlog
+#	new file:   ConsoleApplication3/Debug/link.8312-cvtres.read.1.tlog
+#	new file:   ConsoleApplication3/Debug/link.8312-cvtres.write.1.tlog
+#	new file:   ConsoleApplication3/Debug/link.8312-rc.read.1.tlog
+#	new file:   ConsoleApplication3/Debug/link.8312-rc.write.1.tlog
+#	new file:   ConsoleApplication3/Debug/link.8312.read.1.tlog
+#	new file:   ConsoleApplication3/Debug/link.8312.write.1.tlog
+#	new file:   ConsoleApplication3/Debug/link.command.1.tlog
+#	new file:   ConsoleApplication3/Debug/link.read.1.tlog
+#	new file:   ConsoleApplication3/Debug/link.write.1.tlog
+#	new file:   ConsoleApplication3/Debug/mmio.obj
+#	new file:   ConsoleApplication3/Debug/stdafx.obj
+#	new file:   ConsoleApplication3/Debug/vc110.idb
+#	new file:   ConsoleApplication3/Debug/vc110.pdb
+#	new file:   ConsoleApplication3/FIleIoHelperClass.h
+#	new file:   ConsoleApplication3/FileIoHelperClass.cpp
+#	new file:   ConsoleApplication3/ReadMe.txt
+#	new file:   ConsoleApplication3/Release/CL.read.1.tlog
+#	new file:   ConsoleApplication3/Release/CL.write.1.tlog
+#	new file:   ConsoleApplication3/Release/ConsoleApplication3.lastbuildstate
+#	new file:   ConsoleApplication3/Release/ConsoleApplication3.log
+#	new file:   ConsoleApplication3/Release/ConsoleApplication3.obj
+#	new file:   ConsoleApplication3/Release/ConsoleApplication3.pch
+#	new file:   ConsoleApplication3/Release/cl.command.1.tlog
+#	new file:   ConsoleApplication3/Release/link-cvtres.read.1.tlog
+#	new file:   ConsoleApplication3/Release/link-cvtres.write.1.tlog
+#	new file:   ConsoleApplication3/Release/link-rc.read.1.tlog
+#	new file:   ConsoleApplication3/Release/link-rc.write.1.tlog
+#	new file:   ConsoleApplication3/Release/link.command.1.tlog
+#	new file:   ConsoleApplication3/Release/link.read.1.tlog
+#	new file:   ConsoleApplication3/Release/link.write.1.tlog
+#	new file:   ConsoleApplication3/Release/mmio.obj
+#	new file:   ConsoleApplication3/Release/stdafx.obj
+#	new file:   ConsoleApplication3/Release/vc110.pdb
+#	new file:   ConsoleApplication3/StatusCode.h
+#	new file:   ConsoleApplication3/StopWatch.h
+#	new file:   ConsoleApplication3/Win32Utils.h
+#	new file:   ConsoleApplication3/mmio.cpp
+#	new file:   ConsoleApplication3/mmio.h
+#	new file:   ConsoleApplication3/stdafx.cpp
+#	new file:   ConsoleApplication3/stdafx.h
+#	new file:   ConsoleApplication3/targetver.h
+#	new file:   Debug/ConsoleApplication3.exe
+#	new file:   Debug/ConsoleApplication3.ilk
+#	new file:   Debug/ConsoleApplication3.pdb
+#	new file:   Release/ConsoleApplication3.exe
+#	new file:   Release/ConsoleApplication3.pdb
+#	new file:   ipch/consoleapplication3-e7010640/consoleapplication3-3c6a1326.ipch
+#	new file:   ipch/consoleapplication3-e7010640/consoleapplication3-ec7ff620.ipch
+#
+
